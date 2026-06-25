@@ -1,0 +1,1003 @@
+{
+  "kpis": {
+    "total_revenue": 50353530.9,
+    "total_profit": 24406970.9,
+    "total_orders": 6464,
+    "avg_order_value": 7789.84,
+    "profit_margin_pct": 48.47
+  },
+  "monthly_trend": [
+    {
+      "month": "2024-01",
+      "revenue": 1372453.55,
+      "profit": 671813.55,
+      "orders": 175
+    },
+    {
+      "month": "2024-02",
+      "revenue": 1371832.95,
+      "profit": 669712.95,
+      "orders": 190
+    },
+    {
+      "month": "2024-03",
+      "revenue": 1827238.5,
+      "profit": 880978.5,
+      "orders": 239
+    },
+    {
+      "month": "2024-04",
+      "revenue": 1938419.25,
+      "profit": 941409.25,
+      "orders": 262
+    },
+    {
+      "month": "2024-05",
+      "revenue": 1722299.3,
+      "profit": 833839.3,
+      "orders": 222
+    },
+    {
+      "month": "2024-06",
+      "revenue": 1708387.95,
+      "profit": 820427.95,
+      "orders": 224
+    },
+    {
+      "month": "2024-07",
+      "revenue": 2078706.55,
+      "profit": 1012566.55,
+      "orders": 247
+    },
+    {
+      "month": "2024-08",
+      "revenue": 1854159.05,
+      "profit": 893139.05,
+      "orders": 223
+    },
+    {
+      "month": "2024-09",
+      "revenue": 1668997.3,
+      "profit": 821397.3,
+      "orders": 226
+    },
+    {
+      "month": "2024-10",
+      "revenue": 2613757.25,
+      "profit": 1279627.25,
+      "orders": 361
+    },
+    {
+      "month": "2024-11",
+      "revenue": 2791972.35,
+      "profit": 1333722.35,
+      "orders": 348
+    },
+    {
+      "month": "2024-12",
+      "revenue": 2177107.85,
+      "profit": 1065097.85,
+      "orders": 299
+    },
+    {
+      "month": "2025-01",
+      "revenue": 1569812.4,
+      "profit": 774652.4,
+      "orders": 217
+    },
+    {
+      "month": "2025-02",
+      "revenue": 1637650.15,
+      "profit": 792560.15,
+      "orders": 202
+    },
+    {
+      "month": "2025-03",
+      "revenue": 2281474.7,
+      "profit": 1107444.7,
+      "orders": 303
+    },
+    {
+      "month": "2025-04",
+      "revenue": 2120669.7,
+      "profit": 1040269.7,
+      "orders": 290
+    },
+    {
+      "month": "2025-05",
+      "revenue": 2263669.45,
+      "profit": 1095739.45,
+      "orders": 273
+    },
+    {
+      "month": "2025-06",
+      "revenue": 1904363.25,
+      "profit": 918033.25,
+      "orders": 237
+    },
+    {
+      "month": "2025-07",
+      "revenue": 1954446.0,
+      "profit": 943286.0,
+      "orders": 262
+    },
+    {
+      "month": "2025-08",
+      "revenue": 2124572.3,
+      "profit": 1035612.3,
+      "orders": 282
+    },
+    {
+      "month": "2025-09",
+      "revenue": 2004407.25,
+      "profit": 976337.25,
+      "orders": 253
+    },
+    {
+      "month": "2025-10",
+      "revenue": 3266765.2,
+      "profit": 1571715.2,
+      "orders": 388
+    },
+    {
+      "month": "2025-11",
+      "revenue": 3412709.75,
+      "profit": 1630799.75,
+      "orders": 408
+    },
+    {
+      "month": "2025-12",
+      "revenue": 2687658.9,
+      "profit": 1296788.9,
+      "orders": 333
+    }
+  ],
+  "top_products": [
+    {
+      "ProductName": "27-inch Monitor",
+      "Category": "Displays",
+      "revenue": 6480018.8,
+      "profit": 2803518.8,
+      "units_sold": 387,
+      "revenue_rank": 1,
+      "pct_of_total_revenue": 12.87
+    },
+    {
+      "ProductName": "24-inch Monitor",
+      "Category": "Displays",
+      "revenue": 5641929.8,
+      "profit": 2377929.8,
+      "units_sold": 480,
+      "revenue_rank": 2,
+      "pct_of_total_revenue": 11.2
+    },
+    {
+      "ProductName": "Smartwatch Series 5",
+      "Category": "Wearables",
+      "revenue": 4593989.5,
+      "profit": 2201989.5,
+      "units_sold": 520,
+      "revenue_rank": 3,
+      "pct_of_total_revenue": 9.12
+    },
+    {
+      "ProductName": "Robot Vacuum",
+      "Category": "Home",
+      "revenue": 4378319.55,
+      "profit": 1793319.55,
+      "units_sold": 235,
+      "revenue_rank": 4,
+      "pct_of_total_revenue": 8.7
+    },
+    {
+      "ProductName": "Gaming Chair",
+      "Category": "Home",
+      "revenue": 3734612.7,
+      "profit": 1830112.7,
+      "units_sold": 293,
+      "revenue_rank": 5,
+      "pct_of_total_revenue": 7.42
+    },
+    {
+      "ProductName": "External SSD 1TB",
+      "Category": "Storage",
+      "revenue": 3309586.25,
+      "profit": 1246686.25,
+      "units_sold": 421,
+      "revenue_rank": 6,
+      "pct_of_total_revenue": 6.57
+    },
+    {
+      "ProductName": "Over-Ear Headphones",
+      "Category": "Audio",
+      "revenue": 2612477.4,
+      "profit": 1388877.4,
+      "units_sold": 532,
+      "revenue_rank": 7,
+      "pct_of_total_revenue": 5.19
+    },
+    {
+      "ProductName": "Bluetooth Earbuds",
+      "Category": "Audio",
+      "revenue": 2433651.15,
+      "profit": 1343551.15,
+      "units_sold": 991,
+      "revenue_rank": 8,
+      "pct_of_total_revenue": 4.83
+    },
+    {
+      "ProductName": "Air Fryer 4L",
+      "Category": "Home",
+      "revenue": 2328276.6,
+      "profit": 1075476.6,
+      "units_sold": 432,
+      "revenue_rank": 9,
+      "pct_of_total_revenue": 4.62
+    },
+    {
+      "ProductName": "Portable Speaker",
+      "Category": "Audio",
+      "revenue": 2088378.15,
+      "profit": 1117178.15,
+      "units_sold": 607,
+      "revenue_rank": 10,
+      "pct_of_total_revenue": 4.15
+    }
+  ],
+  "regional_performance": [
+    {
+      "Region": "South",
+      "revenue": 11816036.65,
+      "profit": 5716816.65,
+      "orders": 1519,
+      "pct_of_total": 23.47
+    },
+    {
+      "Region": "North",
+      "revenue": 11210321.5,
+      "profit": 5424481.5,
+      "orders": 1375,
+      "pct_of_total": 22.26
+    },
+    {
+      "Region": "West",
+      "revenue": 10948321.95,
+      "profit": 5315221.95,
+      "orders": 1462,
+      "pct_of_total": 21.74
+    },
+    {
+      "Region": "Central",
+      "revenue": 8500867.5,
+      "profit": 4122907.5,
+      "orders": 1084,
+      "pct_of_total": 16.88
+    },
+    {
+      "Region": "East",
+      "revenue": 7877983.3,
+      "profit": 3827543.3,
+      "orders": 1024,
+      "pct_of_total": 15.65
+    }
+  ],
+  "yoy_growth": [
+    {
+      "Region": "Central",
+      "yr": "2024",
+      "revenue": 4122624.45,
+      "prior_year_revenue": NaN,
+      "yoy_growth_pct": NaN
+    },
+    {
+      "Region": "Central",
+      "yr": "2025",
+      "revenue": 4378243.05,
+      "prior_year_revenue": 4122624.45,
+      "yoy_growth_pct": 6.2
+    },
+    {
+      "Region": "East",
+      "yr": "2024",
+      "revenue": 3643121.6,
+      "prior_year_revenue": NaN,
+      "yoy_growth_pct": NaN
+    },
+    {
+      "Region": "East",
+      "yr": "2025",
+      "revenue": 4234861.7,
+      "prior_year_revenue": 3643121.6,
+      "yoy_growth_pct": 16.24
+    },
+    {
+      "Region": "North",
+      "yr": "2024",
+      "revenue": 5135396.9,
+      "prior_year_revenue": NaN,
+      "yoy_growth_pct": NaN
+    },
+    {
+      "Region": "North",
+      "yr": "2025",
+      "revenue": 6074924.6,
+      "prior_year_revenue": 5135396.9,
+      "yoy_growth_pct": 18.3
+    },
+    {
+      "Region": "South",
+      "yr": "2024",
+      "revenue": 5007363.85,
+      "prior_year_revenue": NaN,
+      "yoy_growth_pct": NaN
+    },
+    {
+      "Region": "South",
+      "yr": "2025",
+      "revenue": 6808672.8,
+      "prior_year_revenue": 5007363.85,
+      "yoy_growth_pct": 35.97
+    },
+    {
+      "Region": "West",
+      "yr": "2024",
+      "revenue": 5216825.05,
+      "prior_year_revenue": NaN,
+      "yoy_growth_pct": NaN
+    },
+    {
+      "Region": "West",
+      "yr": "2025",
+      "revenue": 5731496.9,
+      "prior_year_revenue": 5216825.05,
+      "yoy_growth_pct": 9.87
+    }
+  ],
+  "top_customers": [
+    {
+      "CustomerID": "CUST1289",
+      "CustomerName": "Anjali Gupta",
+      "Segment": "Consumer",
+      "Region": "North",
+      "lifetime_revenue": 222836.75,
+      "order_count": 22,
+      "customer_rank": 1
+    },
+    {
+      "CustomerID": "CUST1220",
+      "CustomerName": "Megha Iyer",
+      "Segment": "Consumer",
+      "Region": "East",
+      "lifetime_revenue": 218772.55,
+      "order_count": 11,
+      "customer_rank": 2
+    },
+    {
+      "CustomerID": "CUST1384",
+      "CustomerName": "Rahul Das",
+      "Segment": "Consumer",
+      "Region": "South",
+      "lifetime_revenue": 199181.3,
+      "order_count": 18,
+      "customer_rank": 3
+    },
+    {
+      "CustomerID": "CUST1394",
+      "CustomerName": "Sanjay Sharma",
+      "Segment": "Small Business",
+      "Region": "North",
+      "lifetime_revenue": 185256.5,
+      "order_count": 21,
+      "customer_rank": 4
+    },
+    {
+      "CustomerID": "CUST1094",
+      "CustomerName": "Vikram Iyer",
+      "Segment": "Small Business",
+      "Region": "West",
+      "lifetime_revenue": 178741.3,
+      "order_count": 14,
+      "customer_rank": 5
+    },
+    {
+      "CustomerID": "CUST1540",
+      "CustomerName": "Vivek Tomar",
+      "Segment": "Consumer",
+      "Region": "West",
+      "lifetime_revenue": 177274.5,
+      "order_count": 12,
+      "customer_rank": 6
+    },
+    {
+      "CustomerID": "CUST1250",
+      "CustomerName": "Rahul Mishra",
+      "Segment": "Consumer",
+      "Region": "West",
+      "lifetime_revenue": 175106.3,
+      "order_count": 18,
+      "customer_rank": 7
+    },
+    {
+      "CustomerID": "CUST1399",
+      "CustomerName": "Arjun Nair",
+      "Segment": "Small Business",
+      "Region": "South",
+      "lifetime_revenue": 170806.65,
+      "order_count": 12,
+      "customer_rank": 8
+    },
+    {
+      "CustomerID": "CUST1438",
+      "CustomerName": "Sanjay Bansal",
+      "Segment": "Consumer",
+      "Region": "West",
+      "lifetime_revenue": 167286.75,
+      "order_count": 14,
+      "customer_rank": 9
+    },
+    {
+      "CustomerID": "CUST1648",
+      "CustomerName": "Neha Mishra",
+      "Segment": "Consumer",
+      "Region": "East",
+      "lifetime_revenue": 166825.15,
+      "order_count": 16,
+      "customer_rank": 10
+    },
+    {
+      "CustomerID": "CUST1264",
+      "CustomerName": "Vivek Saxena",
+      "Segment": "Small Business",
+      "Region": "Central",
+      "lifetime_revenue": 165291.65,
+      "order_count": 16,
+      "customer_rank": 11
+    },
+    {
+      "CustomerID": "CUST1449",
+      "CustomerName": "Priya Chouhan",
+      "Segment": "Consumer",
+      "Region": "North",
+      "lifetime_revenue": 161509.4,
+      "order_count": 17,
+      "customer_rank": 12
+    },
+    {
+      "CustomerID": "CUST1234",
+      "CustomerName": "Sneha Saxena",
+      "Segment": "Consumer",
+      "Region": "North",
+      "lifetime_revenue": 159657.3,
+      "order_count": 12,
+      "customer_rank": 13
+    },
+    {
+      "CustomerID": "CUST1246",
+      "CustomerName": "Kritika Chouhan",
+      "Segment": "Consumer",
+      "Region": "South",
+      "lifetime_revenue": 156430.3,
+      "order_count": 15,
+      "customer_rank": 14
+    },
+    {
+      "CustomerID": "CUST1141",
+      "CustomerName": "Isha Joshi",
+      "Segment": "Consumer",
+      "Region": "South",
+      "lifetime_revenue": 156289.65,
+      "order_count": 17,
+      "customer_rank": 15
+    }
+  ],
+  "rep_leaderboard": [
+    {
+      "SalesRep": "Aarav Sharma",
+      "Region": "North",
+      "revenue": 5679183.45,
+      "profit": 2736113.45,
+      "orders": 674
+    },
+    {
+      "SalesRep": "Ishaan Patel",
+      "Region": "West",
+      "revenue": 5629766.95,
+      "profit": 2726526.95,
+      "orders": 740
+    },
+    {
+      "SalesRep": "Diya Mehta",
+      "Region": "North",
+      "revenue": 5531138.05,
+      "profit": 2688368.05,
+      "orders": 701
+    },
+    {
+      "SalesRep": "Saanvi Joshi",
+      "Region": "West",
+      "revenue": 5318555.0,
+      "profit": 2588695.0,
+      "orders": 722
+    },
+    {
+      "SalesRep": "Rohan Chouhan",
+      "Region": "Central",
+      "revenue": 4287036.55,
+      "profit": 2083216.55,
+      "orders": 554
+    },
+    {
+      "SalesRep": "Kavya Tomar",
+      "Region": "Central",
+      "revenue": 4213830.95,
+      "profit": 2039690.95,
+      "orders": 530
+    },
+    {
+      "SalesRep": "Arjun Das",
+      "Region": "East",
+      "revenue": 4143812.55,
+      "profit": 2012822.55,
+      "orders": 527
+    },
+    {
+      "SalesRep": "Kabir Nair",
+      "Region": "South",
+      "revenue": 3981136.25,
+      "profit": 1908596.25,
+      "orders": 512
+    },
+    {
+      "SalesRep": "Vihaan Reddy",
+      "Region": "South",
+      "revenue": 3932900.8,
+      "profit": 1915270.8,
+      "orders": 499
+    },
+    {
+      "SalesRep": "Ananya Iyer",
+      "Region": "South",
+      "revenue": 3901999.6,
+      "profit": 1892949.6,
+      "orders": 508
+    },
+    {
+      "SalesRep": "Myra Banerjee",
+      "Region": "East",
+      "revenue": 3734170.75,
+      "profit": 1814720.75,
+      "orders": 497
+    }
+  ],
+  "category_by_region": [
+    {
+      "Region": "Central",
+      "Category": "Home",
+      "revenue": 2086714.0,
+      "units_sold": 383
+    },
+    {
+      "Region": "Central",
+      "Category": "Displays",
+      "revenue": 1773925.35,
+      "units_sold": 127
+    },
+    {
+      "Region": "Central",
+      "Category": "Audio",
+      "revenue": 1254038.1,
+      "units_sold": 369
+    },
+    {
+      "Region": "Central",
+      "Category": "Accessories",
+      "revenue": 1247318.5,
+      "units_sold": 774
+    },
+    {
+      "Region": "Central",
+      "Category": "Wearables",
+      "revenue": 1230831.4,
+      "units_sold": 237
+    },
+    {
+      "Region": "Central",
+      "Category": "Storage",
+      "revenue": 688713.9,
+      "units_sold": 88
+    },
+    {
+      "Region": "Central",
+      "Category": "Networking",
+      "revenue": 219326.25,
+      "units_sold": 50
+    },
+    {
+      "Region": "East",
+      "Category": "Displays",
+      "revenue": 1986706.95,
+      "units_sold": 146
+    },
+    {
+      "Region": "East",
+      "Category": "Home",
+      "revenue": 1781336.75,
+      "units_sold": 344
+    },
+    {
+      "Region": "East",
+      "Category": "Accessories",
+      "revenue": 1208455.9,
+      "units_sold": 720
+    },
+    {
+      "Region": "East",
+      "Category": "Wearables",
+      "revenue": 1145416.65,
+      "units_sold": 218
+    },
+    {
+      "Region": "East",
+      "Category": "Audio",
+      "revenue": 1078028.55,
+      "units_sold": 328
+    },
+    {
+      "Region": "East",
+      "Category": "Storage",
+      "revenue": 403149.6,
+      "units_sold": 51
+    },
+    {
+      "Region": "East",
+      "Category": "Networking",
+      "revenue": 274888.9,
+      "units_sold": 62
+    },
+    {
+      "Region": "North",
+      "Category": "Displays",
+      "revenue": 2963448.3,
+      "units_sold": 205
+    },
+    {
+      "Region": "North",
+      "Category": "Home",
+      "revenue": 2779350.2,
+      "units_sold": 452
+    },
+    {
+      "Region": "North",
+      "Category": "Accessories",
+      "revenue": 1710563.6,
+      "units_sold": 1025
+    },
+    {
+      "Region": "North",
+      "Category": "Audio",
+      "revenue": 1501142.85,
+      "units_sold": 440
+    },
+    {
+      "Region": "North",
+      "Category": "Wearables",
+      "revenue": 1169138.5,
+      "units_sold": 257
+    },
+    {
+      "Region": "North",
+      "Category": "Storage",
+      "revenue": 715510.55,
+      "units_sold": 91
+    },
+    {
+      "Region": "North",
+      "Category": "Networking",
+      "revenue": 371167.5,
+      "units_sold": 84
+    },
+    {
+      "Region": "South",
+      "Category": "Displays",
+      "revenue": 2915897.45,
+      "units_sold": 206
+    },
+    {
+      "Region": "South",
+      "Category": "Home",
+      "revenue": 2866144.1,
+      "units_sold": 465
+    },
+    {
+      "Region": "South",
+      "Category": "Accessories",
+      "revenue": 1791892.7,
+      "units_sold": 1110
+    },
+    {
+      "Region": "South",
+      "Category": "Audio",
+      "revenue": 1742115.1,
+      "units_sold": 518
+    },
+    {
+      "Region": "South",
+      "Category": "Wearables",
+      "revenue": 1320128.25,
+      "units_sold": 256
+    },
+    {
+      "Region": "South",
+      "Category": "Storage",
+      "revenue": 733108.35,
+      "units_sold": 93
+    },
+    {
+      "Region": "South",
+      "Category": "Networking",
+      "revenue": 446750.7,
+      "units_sold": 101
+    },
+    {
+      "Region": "West",
+      "Category": "Home",
+      "revenue": 2647305.7,
+      "units_sold": 447
+    },
+    {
+      "Region": "West",
+      "Category": "Displays",
+      "revenue": 2481970.55,
+      "units_sold": 183
+    },
+    {
+      "Region": "West",
+      "Category": "Accessories",
+      "revenue": 1733933.45,
+      "units_sold": 1025
+    },
+    {
+      "Region": "West",
+      "Category": "Audio",
+      "revenue": 1559182.1,
+      "units_sold": 475
+    },
+    {
+      "Region": "West",
+      "Category": "Wearables",
+      "revenue": 1362488.95,
+      "units_sold": 276
+    },
+    {
+      "Region": "West",
+      "Category": "Storage",
+      "revenue": 769103.85,
+      "units_sold": 98
+    },
+    {
+      "Region": "West",
+      "Category": "Networking",
+      "revenue": 394337.35,
+      "units_sold": 89
+    }
+  ],
+  "segment_mix": [
+    {
+      "Segment": "Consumer",
+      "revenue": 31342043.35,
+      "orders": 3985
+    },
+    {
+      "Segment": "Small Business",
+      "revenue": 13203773.05,
+      "orders": 1712
+    },
+    {
+      "Segment": "Enterprise",
+      "revenue": 5807714.5,
+      "orders": 767
+    }
+  ],
+  "region_top_products": [
+    {
+      "Region": "Central",
+      "ProductName": "27-inch Monitor",
+      "Category": "Displays",
+      "revenue": 945994.35,
+      "units_sold": 56,
+      "rank_in_region": 1
+    },
+    {
+      "Region": "Central",
+      "ProductName": "Smartwatch Series 5",
+      "Category": "Wearables",
+      "revenue": 931846.45,
+      "units_sold": 105,
+      "rank_in_region": 2
+    },
+    {
+      "Region": "Central",
+      "ProductName": "24-inch Monitor",
+      "Category": "Displays",
+      "revenue": 827931.0,
+      "units_sold": 71,
+      "rank_in_region": 3
+    },
+    {
+      "Region": "Central",
+      "ProductName": "Robot Vacuum",
+      "Category": "Home",
+      "revenue": 746660.7,
+      "units_sold": 40,
+      "rank_in_region": 4
+    },
+    {
+      "Region": "Central",
+      "ProductName": "External SSD 1TB",
+      "Category": "Storage",
+      "revenue": 688713.9,
+      "units_sold": 88,
+      "rank_in_region": 5
+    },
+    {
+      "Region": "East",
+      "ProductName": "24-inch Monitor",
+      "Category": "Displays",
+      "revenue": 1067911.0,
+      "units_sold": 91,
+      "rank_in_region": 1
+    },
+    {
+      "Region": "East",
+      "ProductName": "27-inch Monitor",
+      "Category": "Displays",
+      "revenue": 918795.95,
+      "units_sold": 55,
+      "rank_in_region": 2
+    },
+    {
+      "Region": "East",
+      "ProductName": "Smartwatch Series 5",
+      "Category": "Wearables",
+      "revenue": 879652.25,
+      "units_sold": 100,
+      "rank_in_region": 3
+    },
+    {
+      "Region": "East",
+      "ProductName": "Robot Vacuum",
+      "Category": "Home",
+      "revenue": 575669.7,
+      "units_sold": 31,
+      "rank_in_region": 4
+    },
+    {
+      "Region": "East",
+      "ProductName": "Gaming Chair",
+      "Category": "Home",
+      "revenue": 463414.35,
+      "units_sold": 36,
+      "rank_in_region": 5
+    },
+    {
+      "Region": "North",
+      "ProductName": "27-inch Monitor",
+      "Category": "Displays",
+      "revenue": 1846941.35,
+      "units_sold": 110,
+      "rank_in_region": 1
+    },
+    {
+      "Region": "North",
+      "ProductName": "24-inch Monitor",
+      "Category": "Displays",
+      "revenue": 1116506.95,
+      "units_sold": 95,
+      "rank_in_region": 2
+    },
+    {
+      "Region": "North",
+      "ProductName": "Gaming Chair",
+      "Category": "Home",
+      "revenue": 965825.7,
+      "units_sold": 76,
+      "rank_in_region": 3
+    },
+    {
+      "Region": "North",
+      "ProductName": "Robot Vacuum",
+      "Category": "Home",
+      "revenue": 954699.75,
+      "units_sold": 51,
+      "rank_in_region": 4
+    },
+    {
+      "Region": "North",
+      "ProductName": "Smartwatch Series 5",
+      "Category": "Wearables",
+      "revenue": 793711.8,
+      "units_sold": 90,
+      "rank_in_region": 5
+    },
+    {
+      "Region": "South",
+      "ProductName": "27-inch Monitor",
+      "Category": "Displays",
+      "revenue": 1650602.9,
+      "units_sold": 99,
+      "rank_in_region": 1
+    },
+    {
+      "Region": "South",
+      "ProductName": "24-inch Monitor",
+      "Category": "Displays",
+      "revenue": 1265294.55,
+      "units_sold": 107,
+      "rank_in_region": 2
+    },
+    {
+      "Region": "South",
+      "ProductName": "Robot Vacuum",
+      "Category": "Home",
+      "revenue": 1169388.45,
+      "units_sold": 63,
+      "rank_in_region": 3
+    },
+    {
+      "Region": "South",
+      "ProductName": "Smartwatch Series 5",
+      "Category": "Wearables",
+      "revenue": 995739.35,
+      "units_sold": 112,
+      "rank_in_region": 4
+    },
+    {
+      "Region": "South",
+      "ProductName": "Gaming Chair",
+      "Category": "Home",
+      "revenue": 783839.7,
+      "units_sold": 62,
+      "rank_in_region": 5
+    },
+    {
+      "Region": "West",
+      "ProductName": "24-inch Monitor",
+      "Category": "Displays",
+      "revenue": 1364286.3,
+      "units_sold": 116,
+      "rank_in_region": 1
+    },
+    {
+      "Region": "West",
+      "ProductName": "27-inch Monitor",
+      "Category": "Displays",
+      "revenue": 1117684.25,
+      "units_sold": 67,
+      "rank_in_region": 2
+    },
+    {
+      "Region": "West",
+      "ProductName": "Smartwatch Series 5",
+      "Category": "Wearables",
+      "revenue": 993039.65,
+      "units_sold": 113,
+      "rank_in_region": 3
+    },
+    {
+      "Region": "West",
+      "ProductName": "Robot Vacuum",
+      "Category": "Home",
+      "revenue": 931900.95,
+      "units_sold": 50,
+      "rank_in_region": 4
+    },
+    {
+      "Region": "West",
+      "ProductName": "Gaming Chair",
+      "Category": "Home",
+      "revenue": 918379.35,
+      "units_sold": 71,
+      "rank_in_region": 5
+    }
+  ]
+}
